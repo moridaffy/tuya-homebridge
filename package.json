@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-tuya-platform",
+  "name": "homebridge-tuya-platform-fork",
   "version": "1.5.0",
-  "description": "Official Homebridge plugin for Tuya Open API, maintained by the Tuya Developer Team.",
+  "description": "Forked Homebridge plugin for Tuya Open API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
   ],
   "author": "huhuan",
   "license": "MIT",
-  "homepage": "https://github.com/tuya/tuya-homebridge",
+  "homepage": "https://github.com/moridaffy/tuya-homebridge",
   "engines": {
     "node": ">=0.12.0",
     "homebridge": ">=0.2.0"
